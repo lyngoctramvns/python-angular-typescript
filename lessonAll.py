@@ -14,4 +14,15 @@ print("This variable is " + name)
 stringData = "Tram"
 print(type(stringData))
 print(isinstance(stringData, str))
-#
+
+# Constructor function
+pizza = str("Pepperoni")
+print(pizza)
+print(type(pizza))
+print(isinstance(pizza, str))
+
+#Concatenate
+stringFirst = "Ngoc"
+stringSecond = "Tram"
+fullname = stringFirst + " " + stringSecond
+print(fullname)
