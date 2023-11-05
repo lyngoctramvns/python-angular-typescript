@@ -10,3 +10,8 @@ print("This variable is " + name)
 
 # Data types
 
+# String data type
+stringData = "Tram"
+print(type(stringData))
+print(isinstance(stringData, str))
+#
