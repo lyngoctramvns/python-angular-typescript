@@ -7,4 +7,5 @@ driver = webdriver.Chrome()
 # https://googlechromelabs.github.io/chrome-for-testing/#stable Chrome webdriver download here!
 
 driver.get("https://test-tram-site-4.myshopify.com/")
-element = driver.find_element_by_id('password')
+driver.implicitly_wait(8)
+element = driver.find_element(By.ID, 'password')
