@@ -86,3 +86,7 @@ y = 15
 print("Right on!") if y > 10 else print("Not today!")
 
 # User Inputs
+# user_input = input('Enter your input here:')
+# print(user_input)
+# Check more on the rps.py file
+
