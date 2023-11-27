@@ -25,5 +25,10 @@ More on: [TypeScript Documentation](https://www.typescriptlang.org/download)
 * Object
 * Array
 * Tuples
+* Union
 * ...
 Special types: Any, Never, Unknown
+
+=> Typescript is going to check which type of data type is coming in to as inputs
+
+=> A function is returning a string
