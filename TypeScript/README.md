@@ -32,3 +32,10 @@ Special types: Any, Never, Unknown
 => Typescript is going to check which type of data type is coming in to as inputs
 
 => A function is returning a string
+
+=> JS doesn't have an integer runtime, so there are no int & float. It just defined as number
+
+### Best Practice
+
+* You don't have to always use colons and then type on every typescript variable.
+* Don't overuse ANY type
