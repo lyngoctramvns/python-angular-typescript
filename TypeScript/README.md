@@ -38,4 +38,4 @@ Special types: Any, Never, Unknown
 ### Best Practice
 
 * You don't have to always use colons and then type on every typescript variable.
-* Don't overuse ANY type
+* Don't overuse ANY type, as it was not type-checked. Should use noImplicitAny from Typescript configs to limit this bad habit.
